@@ -7,7 +7,7 @@ toolchain go1.23.6
 require (
 	dario.cat/mergo v1.0.1
 	github.com/adrg/xdg v0.5.3
-	github.com/google/go-cmp v0.6.0
+	github.com/google/go-cmp v0.7.0
 	github.com/khulnasoft-lab/go-logger v0.0.0-20231023062814-aeae6c26ed8c
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/mitchellh/mapstructure v1.5.0
